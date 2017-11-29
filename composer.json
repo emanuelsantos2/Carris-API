@@ -1,0 +1,13 @@
+{
+    "name": "emaev/carris",
+    "description": "get bus info",
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Emanuel Santos",
+            "email": "emaeva4@gmail.com"
+        }
+    ]
+}
